@@ -16,7 +16,9 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./img/Screenshot.png)
+![](./img/Screenshot%20Tablet.png)
+![](./img/Screenshot%20Mobile.png)
 
 ### Links
 
